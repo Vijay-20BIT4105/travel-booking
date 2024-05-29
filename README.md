@@ -13,7 +13,7 @@
 
   Tourest is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href='je2.pages.dev'"><strong>➥ Live Demo</strong></a>
+  <a href="'https://je2.pages.dev'"><strong>➥ Live Demo</strong></a>
 
 </div>
 
